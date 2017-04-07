@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	margin: 0 auto 0 auto;
+}
+
+.morado {
+background: #47013e;
+width:400px;
+height:610px;
+margin: 0px auto 0 auto;
+padding: 40px;
+
+}
+
+
+.amarillo {
+	background: #ffe400;
+	height: 400px;
+    margin-bottom: 10px;
+	
+	
+}
+
+.rosa {
+	background: #e30ca4;
+	height: 220px;
+
+	
+	
+	
+}

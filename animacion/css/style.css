@@ -1,0 +1,35 @@
+
+#Capa_uno {
+	width: 50%;
+}
+.grupopiso {
+  transform-origin: center center;
+	-webkit-transform-origin: center center;
+	-o-transform-origin: center center;
+	-moz-transform-origin: center center;
+	animation-delay: 1s;
+}
+
+.grupoauto {
+  transform-origin: center center;
+	-webkit-transform-origin: center center;
+	-o-transform-origin: center center;
+	-moz-transform-origin: center center;
+	animation-delay: 1s;
+}
+
+.grupotras {
+  transform-origin: center center;
+	-webkit-transform-origin: center center;
+	-o-transform-origin: center center;
+	-moz-transform-origin: center center;
+	animation-delay: 1s;
+}
+
+.grupodelante {
+  transform-origin: center center;
+	-webkit-transform-origin: center center;
+	-o-transform-origin: center center;
+	-moz-transform-origin: center center;
+	animation-delay: 1s;
+}
